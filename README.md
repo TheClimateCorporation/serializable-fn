@@ -1,3 +1,10 @@
+# Why did we Fork?
+
+Forked from nathanmarz/serializable-fn in order to set a non-SNAPSHOT version and deploy to Clojars.
+
+[org.clojars.mlimotte/serializable-fn "0.0.3"]
+
+
 # serializable fn
 
 This library is capable of serializing anonymous functions defined with the replacement serializable.fn/fn macro or functions that are bound to vars somewhere. Use serializable.fn/serialize and serializable.fn/deserialize to serialize and deserialize to and from byte arrays.
