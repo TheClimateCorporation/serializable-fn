@@ -2,7 +2,7 @@
 
 Forked from nathanmarz/serializable-fn in order to set a non-SNAPSHOT version and deploy to Clojars.
 
-[org.clojars.mlimotte/serializable-fn "0.0.3"]
+[com.climate/serializable-fn "0.0.3"]
 
 
 # serializable fn

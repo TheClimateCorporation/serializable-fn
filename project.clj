@@ -1,5 +1,4 @@
-(defproject org.clojars.mlimotte/serializable-fn "0.0.3"
-  ;com.climate/serializable-fn "0.0.3"
+(defproject com.climate/serializable-fn "0.0.3"
   :url "http://github.com/TheClimateCorporation/serializable-fn"
   :description "Serializable functions in Clojure"
   :min-lein-version "2.0.0"
